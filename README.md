@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @roshni
+- 👋 Hi, I’m @roshnisub17
 - 👀 I’m interested in data visualization
 - 🌱 I’m currently learning data analytics
 
